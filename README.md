@@ -9,11 +9,6 @@ Install app dependencies:
 # dnf install curl openssl libuuid
 ```
 
-Deploy the program:
-
-```
-$ tar -xvf dnl_acme_client.tar.gz
-```
 
 
 ## Configuration ##
